@@ -1,0 +1,6 @@
+@ManagementDatabase_HostAddress = http://localhost:5014
+
+GET {{ManagementDatabase_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
